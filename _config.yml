@@ -8,12 +8,12 @@ prose:
   "_posts/exhibits": |
    layout: default
    category: exhibit
-   title: "exhibit"
+   title: "stories"
    section: "La sección a la que pertenece este exhibit"
   "_posts/sections": |
    layout: default
    category: section
    title: "Test"
-title: test
-author: tomhackshaw.com
-twitter: none
+title: stories
+author: tomhackshaw
+tomhackshaw.com
