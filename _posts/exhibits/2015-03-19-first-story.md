@@ -2,9 +2,7 @@
 published: true
 layout: default
 category: exhibit
-title: 
-  - I went to a Japanese temple
-  - Story 1
+title: I went to a Japanese temple
 section: Stories
 ---
 
