@@ -3,7 +3,7 @@ published: true
 layout: default
 category: exhibit
 title: My visit to Montreal
-section: ""
+section: Stories
 ---
 
 ## To whoever it may concern,
