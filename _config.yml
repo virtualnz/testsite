@@ -1,0 +1,19 @@
+permalink: none
+exclude: [ "sass", "CNAME", "config.rb", "LICENSE", "README.md", "_assets", "Gemfile", "Gemfile.lock", "rakefile" ]
+
+
+prose:
+ rooturl: "_posts/"
+ metadata: 
+  "_posts/exhibits": |
+   layout: default
+   category: exhibit
+   title: "exhibit"
+   section: "La sección a la que pertenece este exhibit"
+  "_posts/sections": |
+   layout: default
+   category: section
+   title: "Test"
+title: test
+author: tomhackshaw.com
+twitter: none
