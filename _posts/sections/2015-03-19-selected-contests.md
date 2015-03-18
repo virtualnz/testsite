@@ -2,7 +2,7 @@
 published: true
 layout: default
 
-title: <a href="/about">About</a>
+title: <a href="http://tomhackshaw.com">tomhackshaw.com</a>
 category: section
 ---
 
