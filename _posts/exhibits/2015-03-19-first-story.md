@@ -7,9 +7,9 @@ section: Stories
 ---
 
 ## To whoever it may concern,
-![](/http://a.pomf.se/lshctl.jpg)
-
+<img src="https://farm9.staticflickr.com/8632/16857069412_094dde07fa_b_d.jpg" >
 
 I visited a Japanese temple on August 14 2014.
 
-Sincerely, Tom Hackshaw
+Sincerely, 
+Tom Hackshaw.
