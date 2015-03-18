@@ -6,6 +6,10 @@ title: Story 1
 section: Stories
 ---
 
-## Once upon a time...
+## To whoever it may concern,
+![](/http://a.pomf.se/lshctl.jpg)
 
-I tried
+
+I visited a Japanese temple on August 14 2014.
+
+Sincerely, Tom Hackshaw
