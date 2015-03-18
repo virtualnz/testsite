@@ -2,9 +2,7 @@
 published: true
 layout: default
 category: exhibit
-title: 
-  - ""
-  - My visit to Montreal
+title: My visit to Montreal
 section: Stories
 ---
 
