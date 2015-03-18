@@ -2,7 +2,7 @@
 published: true
 layout: default
 
-title: Selected contests
+title: <a href="/">Selected contests</a>
 category: section
 ---
 hello
