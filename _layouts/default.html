@@ -4,7 +4,7 @@
 <html lang='en-us'>
 <head>
 	<meta charset='utf-8'>
-		{% if page.title == 'index' %}
+		{% if page.title == 'default' %}
 			{% assign counter = 0 %}
 			{% for exhibit in site.categories.exhibit %}
 				{% if exhibit.home == true and counter == 0 %}
@@ -14,7 +14,7 @@
 				{% endif %}
 			{%  endfor %}
 		{% else %}
-			<title>{{page.title}}</title>
+			<title>Stories</title>
 			<meta name='description' content="{{page.content | truncate: 50 }}" />
 		{% endif %}
 		<meta name='author' content="{{ site.author }}" />
