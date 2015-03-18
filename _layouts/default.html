@@ -4,7 +4,7 @@
 <html lang='en-us'>
 <head>
 	<meta charset='utf-8'>
-		{% if page.title == 'default' %}
+		{% if page.title == 'stories' %}
 			{% assign counter = 0 %}
 			{% for exhibit in site.categories.exhibit %}
 				{% if exhibit.home == true and counter == 0 %}
@@ -18,7 +18,7 @@
 			<meta name='description' content="{{page.content | truncate: 50 }}" />
 		{% endif %}
 		<meta name='author' content="{{ site.author }}" />
-		<meta name='copyright' content="" />
+		<meta name='copyright' content="All material on this site is licensed under CC BY-NC-SA unless noted otherwise" />
 		<meta name='Robots' content="INDEX,FOLLOW" />
 		<meta name='Revisit-after' content="1 Day" />
 		<meta name='generator' content="Jekyll" />
