@@ -9,7 +9,7 @@
 			{% for exhibit in site.categories.exhibit %}
 				{% if exhibit.home == true and counter == 0 %}
 					{% assign counter = 1 %}
-					<title>{{exhibit.title}}</title>
+					<title>Stories</title>
 					<meta name='description' content="{{exhibit.content | truncate: 50 }}" />
 				{% endif %}
 			{%  endfor %}
