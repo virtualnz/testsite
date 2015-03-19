@@ -4,7 +4,7 @@ layout: default
 published: true
 ---
 
-This site acts as a digital archive for true/untrue stories written by people. It is part of an ongoing art project by Tom Hackshaw which explores the nature and idea of telling someone a message.
+This site acts as a digital archive for true/untrue stories and spam written by people. It is part of an ongoing art project by Tom Hackshaw which explores the nature and idea of telling someone a message. 
 <br><br>
 To submit stories (true or untrue), contact the author _hi@tomhackshaw.com_ and specify:
 <br><br>
