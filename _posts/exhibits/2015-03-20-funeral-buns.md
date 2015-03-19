@@ -8,7 +8,7 @@ section: Stories
 
 ## There was once a huge hornet's nest...
 
-that had built up underneath a bridge, 
+...that had built up underneath a bridge, 
 <br>
 at the river the kids always used to play around.
 <br>
