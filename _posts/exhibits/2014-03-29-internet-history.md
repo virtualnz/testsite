@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: default
 category: exhibit
 title: History of the Net
