@@ -12,7 +12,7 @@ To submit stories (true or untrue), contact the author _hi@tomhackshaw.com_ and 
 <br>
 * if you would like credit for your story (otherwise "anonymous"), and licensing
 <br>
-- the title
+* the title
 <br>
 * any supporting images/documentation
 
