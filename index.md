@@ -7,10 +7,10 @@ published: true
 This site acts as a digital archive for all of the true/untrue stories written by people. It is part of an ongoing art project by Tom Hackshaw which explores the nature and idea of telling someone a message.
 <br><br>
 To submit stories (true or untrue), contact the author _hi@tomhackshaw.com_ and specify:
-<br>
+<br><br>
 * the story itself
 <br>
-* if you would like credit for your story (otherwise "anonymous"), and licensing
+* if you would like credit for your story (otherwise "anonymous")
 <br>
 * the title
 <br>
