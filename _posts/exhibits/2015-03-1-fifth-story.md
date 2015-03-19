@@ -30,4 +30,4 @@ There was a man whose tears could cure cancer or any other disease, including th
 If your soul needs healing, the prescription you need is not Chuck Norris' tears, it's Jesus' blood.
 Again, I'm flattered and amazed by the way I've become a fascinating public figure for a whole new generation of young people around the world. But I am not the characters I play. And even the toughest characters I have played could never measure up to the real power in this universe.
 <br><br>
--- anonymous.
+-- copypasta, sent by anonymous.
