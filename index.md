@@ -8,10 +8,13 @@ This site acts as a digital archive for all of the true/untrue stories written b
 <br><br>
 To submit stories (true or untrue), contact the author _hi@tomhackshaw.com_ and specify:
 <br>
-- the story itself
-- if you would like credit for your story (otherwise "anonymous"), and licensing
+* the story itself
+<br>
+* if you would like credit for your story (otherwise "anonymous"), and licensing
+<br>
 - the title
-- any supporting images/documentation
+<br>
+* any supporting images/documentation
 
 <br>
 There is no length limit, so go crazy!
