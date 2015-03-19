@@ -2,7 +2,7 @@
 published: true
 layout: default
 category: exhibit
-title: Hi well let me start by introducing myself
+title: Hi well let me start by introducing myself.txt
 section: Stories
 ---
 
