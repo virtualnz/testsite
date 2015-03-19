@@ -13,3 +13,5 @@ I visited a Japanese temple on August 14 2014.
 
 Sincerely, 
 Tom Hackshaw.
+<br><br>
+-- Tom Hackshaw.
