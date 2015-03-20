@@ -8,7 +8,7 @@ section: Stories
 
 ## Exploration I
 
-<img src="http://scpfoundation.org/087/rf.php" >
+<img src="http://a.pomf.se/xpmqhw.jpg" >
 
 D-8432 is a 43-year old Caucasian male of average build and appearance and unremarkable psychological background. Class-D designation is a result of demotion due to mishandling SCP-███. D-8432 is equipped with a 75 watt flood lamp with battery power capable of lasting 24 hours, a handheld camcorder fitted with a transmission stream, and an audio headset for communication with Dr. ██████ at Control.
 
@@ -93,3 +93,5 @@ The face jerks forward about 50 centimeters directly toward D-8432.
 D-8432 enters a panicked state and rapidly ascends SCP-087. D-8432 reaches the ground floor in 18 minutes, at which time he collapses and passes out. There is no sign of SCP-087-1. Review of the footage indicates an equal number of flights and steps ascending as descending. Audio of the crying and pleading remains at the same volume until the last flight, at which point it ceases. Medical reports indicate collapse was a result of the rapid ascension of the stairs, causing fatigue.
 <br><br>
 -- Sent by Retian, written by [SCP Wiki](http://www.scp-wiki.net/document-087-i "stories"), CC BY-SA 3.0
+<br>
+Image by Jody Davis, CCO
