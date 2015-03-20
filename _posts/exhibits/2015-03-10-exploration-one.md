@@ -92,4 +92,4 @@ The face jerks forward about 50 centimeters directly toward D-8432.
 
 D-8432 enters a panicked state and rapidly ascends SCP-087. D-8432 reaches the ground floor in 18 minutes, at which time he collapses and passes out. There is no sign of SCP-087-1. Review of the footage indicates an equal number of flights and steps ascending as descending. Audio of the crying and pleading remains at the same volume until the last flight, at which point it ceases. Medical reports indicate collapse was a result of the rapid ascension of the stairs, causing fatigue.
 <br><br>
--- unknown author, sent by Retian, although links to [this wiki](http://www.scp-wiki.net/document-087-i "stories")
+-- Sent by Retian, written by [SCP Wiki](http://www.scp-wiki.net/document-087-i "stories"), CC BY-SA 3.0
