@@ -3,7 +3,7 @@ published: true
 layout: default
 category: exhibit
 title: Manchurian Currency
-section: stories
+section: Stories
 ---
 
 ## Pieces of paper
