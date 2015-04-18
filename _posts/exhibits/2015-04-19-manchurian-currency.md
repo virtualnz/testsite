@@ -1,9 +1,9 @@
 ---
-published: false
+published: true
 layout: default
 category: exhibit
 title: Manchurian Currency
-section: La sección a la que pertenece este exhibit
+section: stories
 ---
 
 ## Pieces of paper
